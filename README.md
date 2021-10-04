@@ -81,10 +81,12 @@ Refactoring code can make it appear more organized, as well as decrease the time
 ### Refactoring the All Stocks Analysis code
 Overall, refactoring this code in particular was helpful as it significantly decreased the time needed to run the macro for both the 2017 and the 2018 datasets. 
 
-For the 2017 dataset, the macro ran approximately 0.51 seconds faster.
+#### For the 2017 dataset, the macro ran approximately 0.51 seconds faster.
+
 ![2017 original time](./resources/2017_original-time.png)
 ![2017 refactored time](./resources/2017_refactored-time.png)
 
-For the 2018 dataset, the macro ran approximately 0.52 seconds faster.
+#### For the 2018 dataset, the macro ran approximately 0.52 seconds faster.
+
 ![2018 original time](./resources/2018_original-time.png)
 ![2018 refactored time](./resources/2018_refactored-time.png)
